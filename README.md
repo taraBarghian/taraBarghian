@@ -12,9 +12,8 @@ Talking about Personal Stuffs:
 
 ## Talking about Personal Stuffs:
 
-- 🔭 I’m currently working on [Phoenix](https://phoenixframework.org/), [Elixir](https://elixir-lang.org/)
-- 🌱 I’m currently learning [Flutter](https://flutter.dev/), [Dart](https://dart.dev/)
-- ⚡ I'm skilled at [Java](https://www.java.com), [Python](https://www.python.org/), [Django](https://www.djangoproject.com/)
+- 🔭 I’m currently working on Machine learning, Computer vision
+- ⚡ I'm skilled at  [Python](https://www.python.org/), [TensorFlow](https://www.tensorflow.org/), [PyTorch](https://pytorch.org/)
 
 
 
