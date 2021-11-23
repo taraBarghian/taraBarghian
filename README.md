@@ -5,7 +5,7 @@ https://github.com/abranhe/programming-languages-logos
 
 
 
-Talking about Personal Stuffs:
+I'm a CE student @SBU and AI RA @IPM 😇
 
 
 
