@@ -1,5 +1,5 @@
 <link href="https://languages.abranhe.com/logos.css" rel="stylesheet">
-https://github.com/abranhe/programming-languages-logos
+
 
 ## Hey! 👋 I'm [Tara Barghian](https://github.com/taraBarghian)
 
@@ -7,7 +7,7 @@ https://github.com/abranhe/programming-languages-logos
 
 I'm a CE student @SBU and AI RA @IPM 😇
 
-
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/beb84f63616517.5ab8e5806b1c2.gif" width="284" height="160" />
 
 
 ## Talking about Personal Stuffs:
