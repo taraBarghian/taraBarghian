@@ -5,7 +5,7 @@
 
 
 
-I'm a CE student @SBU and AI RA @IPM 😇
+I'm a M. Sc. Student in Computer Software Engineering @SBU and AI RA @IPM 😇
 
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/beb84f63616517.5ab8e5806b1c2.gif" width="284" height="160" />
 
